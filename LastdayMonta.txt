@@ -1,0 +1,10 @@
+1. interpret the client requirements
+// pastebin.com/DaCrgCvR
+
+2. Solve using preffered HTML tags
+
+3. Take a screenshot of your result
+
+3.1 Create a Readme.MD to your project folder
+
+4. push to your Github Account
